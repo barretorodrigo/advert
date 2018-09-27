@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username   = "root";
-$password   = "barreto.2";
+$password   = "";
 $dbname     = "advert";
 
 // Create connection
